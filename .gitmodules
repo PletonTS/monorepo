@@ -7,3 +7,6 @@
 [submodule "libs/builder"]
 	path = libs/builder
 	url = https://github.com/PletonTS/builder
+[submodule "libs/initializer"]
+	path = libs/initializer
+	url = https://github.com/PletonTS/initializer
