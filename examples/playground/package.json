@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "pleton ./index.ts"
+  },
+  "dependencies": {
+    "@pleton/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@pleton/runtime": "workspace:*"
+  }
+}

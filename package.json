@@ -2,5 +2,8 @@
   "name": "pleton-monorepo",
   "version": "1.0.0",
   "description": "",
-  "private": true
+  "private": true,
+  "scripts": {
+    "example:playground": "cd examples/playground && pnpm run start"
+  }
 }
