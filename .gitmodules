@@ -10,3 +10,6 @@
 [submodule "libs/initializer"]
 	path = libs/initializer
 	url = https://github.com/PletonTS/initializer
+[submodule "libs/http"]
+	path = libs/http
+	url = https://github.com/PletonTS/http

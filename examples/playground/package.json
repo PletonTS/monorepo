@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "start": "pleton ./index.ts"
+    "start": "pleton src/index.ts"
   },
   "dependencies": {
     "@pleton/core": "workspace:*",
